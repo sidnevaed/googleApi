@@ -1,0 +1,11 @@
+.header {
+  height: 25rem;
+  background-image: url(images/header.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+
+  h1 {
+    text-shadow: -1px -1px 1px var(--color-header),
+      1px 1px 1px var(--color-black);
+  }
+}
